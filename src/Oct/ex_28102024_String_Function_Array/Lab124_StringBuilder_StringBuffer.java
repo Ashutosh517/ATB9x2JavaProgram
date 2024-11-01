@@ -1,4 +1,4 @@
-package Oct.ex_28102024;
+package Oct.ex_28102024_String_Function_Array;
 
 public class Lab124_StringBuilder_StringBuffer {
     public static void main(String[] args) {
