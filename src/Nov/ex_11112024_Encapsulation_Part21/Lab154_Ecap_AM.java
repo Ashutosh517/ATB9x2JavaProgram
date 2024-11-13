@@ -1,7 +1,6 @@
-package Nov.ex_11112024_Encapsulation_Part2;
+package Nov.ex_11112024_Encapsulation_Part21;
 
-import Nov.ex_11112024_Encapsulation_Part2.REAL.BaseClass;
-import Nov.ex_11112024_Encapsulation_Part2.REAL.TestCase1;
+import Nov.ex_11112024_Encapsulation_Part21.REAL.TestCase1;
 
 public class Lab154_Ecap_AM {
 

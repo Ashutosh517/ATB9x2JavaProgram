@@ -1,4 +1,4 @@
-package Nov.ex_11112024_Encapsulation_Part2.REAL;
+package Nov.ex_11112024_Encapsulation_Part21.REAL;
 
 public class TestCase1 extends BaseClass{
 

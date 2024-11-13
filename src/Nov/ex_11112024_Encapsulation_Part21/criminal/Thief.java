@@ -1,6 +1,6 @@
-package Nov.ex_11112024_Encapsulation_Part2.criminal;
+package Nov.ex_11112024_Encapsulation_Part21.criminal;
 
-import Nov.ex_11112024_Encapsulation_Part2.police.Cop;
+import Nov.ex_11112024_Encapsulation_Part21.police.Cop;
 
 public class Thief {
     public static void main(String[] args) {

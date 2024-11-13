@@ -1,4 +1,4 @@
-package Nov.ex_11112024_Encapsulation_Part2.police;
+package Nov.ex_11112024_Encapsulation_Part21.police;
 
 public class JrCop {
     public static void main(String[] args) {
